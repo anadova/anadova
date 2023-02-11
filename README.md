@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm building a portfolio with some projects made by  my own. The languages I'm learning are Python, Tableau, SQL, LaTex and HTML.
-### Pls check my website!!
+### Pls check my website!! anadova.github.io 
 <!--
 **anadova/anadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
