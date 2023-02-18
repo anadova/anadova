@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm building a portfolio with some projects made by  my own. The languages I'm learning are Python, Tableau, SQL, LaTex and HTML.
 ### Pls check my website!! anadova.github.io 
+###
+### ABOUT ME:
+### As a Demand Planner with a degree in Industrial Engineering, I am passionate about creating efficient supply chain operations that maximize customer satisfaction. My proficiency in Excel and ERP management, combined with my problem-solving abilities and advanced English language skills, have enabled me to excel in the retail industry. I am interested in leveraging my skills to drive innovation and digitalization in logistics, specifically in the context of logistics 4.0. With my expertise in data analytics, I am confident that I can help organizations gain valuable insights that can inform their decision-making processes. I am eager to explore opportunities to lead ERP implementation projects and contribute to the success of supply chain operations.
 <!--
 **anadova/anadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
