@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm building a portfolio with some projects made by  my own. The languages I'm learning are Python, Tableau, SQL, LaTex and HTML.
+### I'm building a portfolio with some projects made by  my own. The languages and softwares I'm learning by myself are Python, Tableau, PowerBi, SQL, LaTex and a bit of HTML.
 ### Pls check my website!! anadova.github.io 
 ###
 ### ABOUT ME:
